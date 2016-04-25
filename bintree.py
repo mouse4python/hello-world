@@ -1,4 +1,8 @@
 class BinaryTree:
     def __init__(self,rootObj):
         self.key=rootObj
-        self.left
+        self.left=None
+        self.right=None
+    def insertLeft(self,subTree):
+        
+        
